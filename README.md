@@ -2,4 +2,4 @@
 
 Simple Maven Project
 
-this is azure devops demo
+this is azure devops demo practice
